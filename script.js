@@ -140,8 +140,9 @@ function left1() {
     desc = "You claim you didn't murder the princess."
     choice1 = "Tell him you were lying. You're the murderer."
     choice2 = "Cooperate with George to put Tommy under the guillotine."
+    choice3 = "Say nothing else."
 
-    update2(desc, choice1, guilty1, choice2, innocent1);
+    update3(desc, choice1, guilty1, choice2, innocent1, choice3, guilty2);
 }
 
 function right() {
