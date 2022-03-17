@@ -96,8 +96,8 @@ function innocent2() {
 function start() {
     desc = "You and two others have been detained in a murder investigation.\
             The Knights of the Land Between raided your farm, covered your head, and have thrown \
-            you in cold cell beneath the Castle of Thorns \
-            their are two other alleged perpetrators who are placed alone in cells to your left and right. \
+            you in cold cell beneath the Castle of Thorns; \
+            there are two other alleged perpetrators who are placed alone in cells to your left and right. \
             <br><br> What will you do?"
     choice1 = "Wait it out."
     choice2 = "Try to talk to one of the other suspects."
