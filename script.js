@@ -71,7 +71,7 @@ function guilty1() {
 function guilty2() {
     desc = "You were found guilty in the murder of Melina, the Princess of the Lands Between. \
             You will be publicly executed effective immediately. \
-            George and Tommy conspired against you in order to escape death "
+            George and Tommy conspired against you in order to garauntee their freedom."
 
     choice1 = "Reset";
     update1(desc, choice1, start);
