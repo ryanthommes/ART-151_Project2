@@ -7,18 +7,35 @@
     <title>ART-151 Project2 - Text Based Game</title>
 
     <link rel="stylesheet" type="text/css" href="styles.css">
+    <script type="text/javascript" src="script.js"></script>
 </head>
 
 <body>   
-    <div class="wrapper">
-        <div>
-            <p>
-                Welcome!
-            </p>
-            <a href="./game/start.html">
-                Start!
-            </a>
+    <div id="wrapper">
+        
+        <div id="desc_wrapper">
+            <p id="desc">Murder Investigation</p>
         </div>
+
+        <br>
+
+        <div id="choice1_wrapper">
+            <button id="choice1" onclick="start();">Start!</button>
+        </div>
+
+        <br>
+
+        <div id="choice2_wrapper" style="display: none;">
+            <button id="choice2"></button>
+        </div>
+
+        <br>
+
+        <div id="choice3_wrapper" style="display: none;">
+            <button id="choice3"></button>
+        </div>
+        
+
 	</div>
 </body>
 
