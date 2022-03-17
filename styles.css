@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    background: radial-gradient(circle at 50% -25%, #54544e 10%, #191917 30%, #000000 60%);
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    padding: 2rem;
+    color: white;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper {
+    background-color: rgba(84, 84, 78, 0.05);
+    display: flex;
+    
+    height: 40%;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    font-weight: bolder;
+}
