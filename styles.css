@@ -14,7 +14,7 @@ body {
     margin-left: 10%;
     margin-right: 10%;
     color: white;
-    font-family: monospace;
+    font-family: "Garamond", serif;
     padding: 50px;
 }
 
@@ -28,7 +28,7 @@ button {
     background-color: #54544e;
     color: white;
     font-size: 20px;
-    font-family: monospace;
+    font-family: "Garamond", serif;
     width: 50%;
     height: 50px;
     transition-duration: 0.4s;
